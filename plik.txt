@@ -1,3 +1,3 @@
 kocia zmienia plik
-
-dodanie nowej eksperymentalnej funkcjonalności
+a teraz zmienia go po raz drugi wiec jest to druga wersja
+a teraz trzecia wersja
